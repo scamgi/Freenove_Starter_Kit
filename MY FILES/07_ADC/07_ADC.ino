@@ -1,3 +1,5 @@
+// THIS IS THE CODE FOR THE POTENTIOMETER!
+
 int adcValue;
 float V;
 
